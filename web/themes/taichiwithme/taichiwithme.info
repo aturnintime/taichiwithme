@@ -1,0 +1,8 @@
+type = theme
+name = taichiwithme
+description = taichiwithme subtheme of Basis
+backdrop = 1.x
+
+base theme = basis
+
+stylesheets[all][] = css/skin.css
