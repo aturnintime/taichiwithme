@@ -27,5 +27,5 @@ libraries[] = bootstrap4-gs
 
 ; Added by Backdrop CMS packaging script on 2020-05-20
 project = backdrop
-version = 1.15.3
-timestamp = 1590003351
+version = 1.16.1
+timestamp = 1590003721
