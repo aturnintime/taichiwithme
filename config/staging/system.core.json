@@ -67,7 +67,7 @@
     "site_logo_theme": 0,
     "site_logo_path": "public://back_ground_tai_chi_3.jpg",
     "site_mail": "michelle@gff.gov",
-    "site_slogan": "Balance In Exercise - Tai Chi",
+    "site_slogan": "Balance In Exercise",
     "theme_default": "taichiwithme",
     "theme_debug": 0,
     "user_admin_role": "administrator",
@@ -98,9 +98,7 @@
         6
     ],
     "x_frame_options": "SAMEORIGIN",
-    "site_logo_attributes": {
-        "width": 286,
-        "height": 179
-    },
-    "site_favicon_upload": ""
+    "site_logo_attributes": [],
+    "site_favicon_upload": "",
+    "site_logo_upload": ""
 }

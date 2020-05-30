@@ -146,11 +146,13 @@ fieldset .fieldset-legend {
  * site name word size
  */
 .l-header {
+  margin-top: 1rem;
+  background-color: #e2eefc;
   color: #000;
 }
 
 .l-header-inner {
-  color: #fffffe;
+  color: #000;
   padding: 0;
 }
 
@@ -1241,4 +1243,19 @@ div.warning:before {
 div.error:before {
   /* background-image: -webkit-linear-gradient(transparent, transparent), url(../../../misc/message-error.svg); */
   /* background-image: linear-gradient(transparent, transparent), url(../../../misc/message-error.svg); */
+}
+
+/** homepage **/
+.front .l-top {
+  margin: 2rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: top;
+}
+@media (min-width: 1024px) {
+  .front .block-layout-custom-block {
+    width: 48%;
+  }
 }
