@@ -1268,3 +1268,8 @@ div.error:before {
     width: 48%;
   }
 }
+
+/** contact form **/
+.node-webform .submitted {
+  display: none;
+}
