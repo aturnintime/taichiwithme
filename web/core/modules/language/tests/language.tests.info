@@ -1,0 +1,10 @@
+[LanguageListTest]
+name = Language list configuration
+description = Adds a new language and tests changing its status and the default language.
+group = Language
+file = language.test
+
+; Added by Backdrop CMS packaging script on 2020-05-20
+project = backdrop
+version = 1.15.3
+timestamp = 1590003351
