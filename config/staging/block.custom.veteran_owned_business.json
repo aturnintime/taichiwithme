@@ -1,0 +1,12 @@
+{
+    "_config_name": "block.custom.veteran_owned_business",
+    "delta": "veteran_owned_business",
+    "info": "veteran-owned-business",
+    "title": "",
+    "description": "",
+    "body": {
+        "value": "<img alt=\"Veteran Owned Business\" data-align=\"center\" data-file-id=\"6\" height=\"766\" src=\"/files/inline-images/veteran_owned_business_logo.png\" width=\"667\" />\r\n<p>&nbsp;</p>\r\n",
+        "format": "filtered_html"
+    },
+    "default_langcode": "und"
+}

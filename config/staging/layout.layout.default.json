@@ -18,6 +18,7 @@
     "positions": {
         "header": [
             "84c43df4-1165-4faf-8700-c362a7153c0b",
+            "3e315d58-096a-4d2c-9c00-be0b3fab372c",
             "13b2f325-af26-40bb-8c61-97fe1d93f19f"
         ],
         "top": [],
@@ -47,6 +48,28 @@
                     "contexts": []
                 },
                 "uuid": "84c43df4-1165-4faf-8700-c362a7153c0b",
+                "style": {
+                    "plugin": "default",
+                    "data": {
+                        "settings": {
+                            "classes": ""
+                        }
+                    }
+                }
+            }
+        },
+        "3e315d58-096a-4d2c-9c00-be0b3fab372c": {
+            "plugin": "block:veteran_owned_business",
+            "data": {
+                "module": "block",
+                "delta": "veteran_owned_business",
+                "settings": {
+                    "title_display": "default",
+                    "style": "default",
+                    "block_settings": [],
+                    "contexts": []
+                },
+                "uuid": "3e315d58-096a-4d2c-9c00-be0b3fab372c",
                 "style": {
                     "plugin": "default",
                     "data": {
