@@ -185,6 +185,9 @@ fieldset .fieldset-legend {
   border-top: 1px solid #ccc;
   border-right: 1px solid #ccc;
 }
+.l-header .menu li a:hover {
+  color: #fff;
+}
 
 .header-menu a:hover,
 .l-header a:active {
