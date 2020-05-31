@@ -214,6 +214,7 @@ fieldset .fieldset-legend {
   font-size: 1.25rem;
 }
 
+
 @media (min-width: 34em) {
   .header-site-name-wrapper {
     font-size: 1.5em;
@@ -227,15 +228,12 @@ fieldset .fieldset-legend {
 }
 
 .header-logo-wrapper {
-  max-width: 6rem;
-  height: 3.5rem;
   /* Keeps logo in same container as text but avoids padding */
   margin: -1.25rem 1rem -1rem -1.25rem;
 }
 
 @media (min-width: 48em) {
   .header-logo-wrapper {
-    height: 4.25rem;
     /* Keeps logo in same container as text but avoids padding */
     margin: -1.75rem 1.25rem -1.25rem -1.25rem;
   }
@@ -245,7 +243,16 @@ fieldset .fieldset-legend {
   font-weight: 200;
   text-align: center;
 }
-
+.header-link-flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-site-name {
+  font-size: 3.4rem;
+}
 .header-site-name-link {
   background: #0074bd;
   padding: 1.25rem 1.25rem 1rem;
@@ -267,27 +274,8 @@ fieldset .fieldset-legend {
 }
 
 .header-site-slogan {
-  line-height: 1.25rem;
-  padding: 0.5rem 1rem;
-  font-size: 0.75rem;
-  text-align: center;
-}
-
-@media (min-width: 34em) {
-  .header-site-slogan {
-    height: 3.5rem;
-    padding: 1.5625rem 1rem 0.9375rem; /* Attempts to line up baselines */
-    float: left;
-    color: #000;
-  }
-}
-
-@media (min-width: 48em) {
-  .header-site-slogan {
-    height: 4.25rem;
-    padding: 2.0625rem 1.25rem 0.9375rem; /* Attempts to line up baselines */
-    font-size: 1rem;
-  }
+  clear: both;
+  font-size: 1.6rem;
 }
 
 /**

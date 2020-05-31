@@ -6,3 +6,4 @@ backdrop = 1.x
 base theme = basis
 
 stylesheets[all][] = css/skin.css
+stylesheets[all][] = css/base.css

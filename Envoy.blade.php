@@ -12,7 +12,6 @@
   composer install
   cd {{ getenv('LP_SITE_ROOT') }}
   drush updb -y
-  drush bcim -y
   drush cc all
 @endtask
 
