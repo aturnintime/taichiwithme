@@ -11,9 +11,9 @@
     "layout_template": "boxton",
     "disabled": false,
     "settings": {
-        "title": "Welcome to Backdrop",
-        "title_display": "none",
-        "title_block": "094cbc03-d088-4b3c-8361-977733540ae8"
+        "title": "Tai Chi",
+        "title_display": "custom",
+        "title_block": "d7932e87-5762-412a-a600-eaf8d59c5282"
     },
     "positions": {
         "header": [
@@ -23,6 +23,7 @@
         ],
         "top": [
             "68ffb40d-6d50-4347-8600-0a67aa425ddc",
+            "f75a5253-6de4-4df6-8600-ca55763a198d",
             "40ffc19c-85ce-4fd0-9925-379b65140ab0"
         ],
         "content": [
@@ -122,7 +123,7 @@
                 "delta": "custom_block",
                 "settings": {
                     "title_display": "default",
-                    "title": "",
+                    "title": "What is Tai Chi?",
                     "style": "default",
                     "block_settings": [],
                     "contexts": [],
@@ -140,6 +141,31 @@
                 }
             }
         },
+        "f75a5253-6de4-4df6-8600-ca55763a198d": {
+            "plugin": "layout:custom_block",
+            "data": {
+                "module": "layout",
+                "delta": "custom_block",
+                "settings": {
+                    "title_display": "default",
+                    "title": "What is Taijifit?",
+                    "style": "default",
+                    "block_settings": [],
+                    "contexts": [],
+                    "content": "",
+                    "format": "filtered_html"
+                },
+                "uuid": "f75a5253-6de4-4df6-8600-ca55763a198d",
+                "style": {
+                    "plugin": "default",
+                    "data": {
+                        "settings": {
+                            "classes": ""
+                        }
+                    }
+                }
+            }
+        },
         "40ffc19c-85ce-4fd0-9925-379b65140ab0": {
             "plugin": "layout:custom_block",
             "data": {
@@ -147,7 +173,7 @@
                 "delta": "custom_block",
                 "settings": {
                     "title_display": "default",
-                    "title": "",
+                    "title": "Benefits of Tai Chi",
                     "style": "default",
                     "block_settings": [],
                     "contexts": [],
