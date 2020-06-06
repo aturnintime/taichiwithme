@@ -126,6 +126,18 @@ img {
   max-width: 300px;
   border-radius: 50%;
 }
+@media (max-width: 500px) {
+  .header-logo-wrapper {
+    text-align: center;
+  }
+  .header-logo-wrapper .header-logo {
+    max-width: 233px;
+  }
+  .header-link-flex {
+    display: block !important;
+  }
+}
+
 
 video {
   max-width: 100%;

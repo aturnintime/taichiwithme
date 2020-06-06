@@ -256,8 +256,20 @@ fieldset .fieldset-legend {
 .header-site-name {
   font-size: 3.4rem;
 }
+@media (max-width: 500px) {
+  .l-header-inner {
+    align-items: top !important;
+  }
+  .header-logo-wrapper {
+    margin-bottom: 20px;
+  }
+  .header-site-name {
+    font-size: 1.75rem;
+    clear: both;
+    text-align: center;
+  }
+}
 .header-site-name-link {
-  background: #0074bd;
   padding: 1.25rem 1.25rem 1rem;
   line-height: 1.25rem;
   text-align: center;
