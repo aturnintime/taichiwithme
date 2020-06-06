@@ -21,13 +21,11 @@
             "f1066162-fb15-42b5-b500-d4069ce577ce",
             "9aece1df-ac4f-44a6-8b0c-12a7f6a1fb21"
         ],
-        "top": [
+        "top": [],
+        "content": [
             "68ffb40d-6d50-4347-8600-0a67aa425ddc",
             "f75a5253-6de4-4df6-8600-ca55763a198d",
             "40ffc19c-85ce-4fd0-9925-379b65140ab0"
-        ],
-        "content": [
-            "578243cf-a4c8-46ad-9504-04aaf4ec9ccc"
         ],
         "bottom": [],
         "footer": [],
@@ -127,7 +125,7 @@
                     "style": "default",
                     "block_settings": [],
                     "contexts": [],
-                    "content": "<h5 align=\"center\">What is Tai Chi?</h5>\r\n\r\n<p>Originally developed for self-defense, tai chi is an ancient Chinese tradition that has evolved into a graceful form of exercise that today is known for stress reduction and aiding with a variety of other health conditions.&nbsp;It&nbsp;is a noncompetitive, self-paced system of gentle physical exercise and stretching. Each posture flows into the next without pause, ensuring that your body is in constant motion.</p>\r\n\r\n<p>Often referred to&nbsp;as meditation in motion, tai chi&nbsp;involves a series of moves performed in a slow, focused manner accompanied by deep breathing- by doing so, it promotes serenity through gentle, flowing movements.</p>\r\n\r\n<h5 align=\"center\">What is Taijifit?</h5>\r\n\r\n<p>TaijiFit is not just an exercise – it's an experience! ... TaijiFit is the most unique workout to come along in decades. It's a ride along the wave of your Inner Power, surfing on your own life energy – called Qi. Taijifit combines the best elements of fitness, meditation and the ancient martial art of Taiji (Tai Chi).</p>\r\n<img alt=\"Tai Chi Logo\" data-align=\"center\" data-file-id=\"2\" height=\"151\" src=\"/files/inline-images/smallerlogo.png\" width=\"147\" />\r\n<p>&nbsp;</p>\r\n",
+                    "content": "<p>Originally developed for self-defense, tai chi is an ancient Chinese tradition that has evolved into a graceful form of exercise that today is known for stress reduction and aiding with a variety of other health conditions.&nbsp;It&nbsp;is a noncompetitive, self-paced system of gentle physical exercise and stretching. Each posture flows into the next without pause, ensuring that your body is in constant motion.</p>\r\n\r\n<p>Often referred to&nbsp;as meditation in motion, tai chi&nbsp;involves a series of moves performed in a slow, focused manner accompanied by deep breathing- by doing so, it promotes serenity through gentle, flowing movements.</p>\r\n\r\n<h5 align=\"center\">What is Taijifit?</h5>\r\n\r\n<p>TaijiFit is not just an exercise – it's an experience! ... TaijiFit is the most unique workout to come along in decades. It's a ride along the wave of your Inner Power, surfing on your own life energy – called Qi. Taijifit combines the best elements of fitness, meditation and the ancient martial art of Taiji (Tai Chi).</p>\r\n<img alt=\"Tai Chi Logo\" data-align=\"center\" data-file-id=\"2\" height=\"151\" src=\"/files/inline-images/smallerlogo.png\" width=\"147\" />\r\n<p>&nbsp;</p>\r\n",
                     "format": "filtered_html"
                 },
                 "uuid": "68ffb40d-6d50-4347-8600-0a67aa425ddc",
@@ -177,43 +175,10 @@
                     "style": "default",
                     "block_settings": [],
                     "contexts": [],
-                    "content": "<h5 class=\"show_overlays text-align-center\"><strong>B</strong>enef<strong>its of Tai Chi</strong></h5>\r\n\r\n<ul>\r\n\t<li><strong>Balance:</strong>&nbsp;Tai Chi movements are steady and slow, shifting from one side to the other with coordinating upper body movements. Theses movements help the core regain balance and reduces the risk of falling in elderly.</li>\r\n\t<li><strong>Strength and Endurance:</strong>&nbsp;Research shows that individuals who practiced Tai Chi at least 3 times a week on the regular, had higher strength and performance level.</li>\r\n\t<li><strong>Flexibility:</strong>&nbsp;In tai chi the range of movements helps improve one’s flexibility as well.</li>\r\n\t<li><strong>Posture:</strong>&nbsp;helps one maintain a good posture from constant practice of Tai Chi</li>\r\n\t<li><strong>Chronic Illness prevention:</strong>&nbsp;helps in the treatment chronic illnesses like heart disease, blood pressure, arthritis, digestive disorders, depression and a few others.</li>\r\n\t<li><strong>Improves coordination:</strong>&nbsp;helps with hand eye coordination as well as upper and lower body coordination with the slow rhythmic movements involved.</li>\r\n\t<li><strong>Regulates the respiratory system:</strong>&nbsp;Breathing is one of the three parts of Tai Chi. The deep breathing helps treat respiratory alignments such as asthma, bronchitis, and emphysema.</li>\r\n\t<li><strong>Aerobic Capacity:</strong>&nbsp;helps improve one’s aerobic capacity- researchers say that Tai Chi is a form of aerobic exercise as well.</li>\r\n\t<li><strong>Stress:</strong>&nbsp;The mellow rhythmic movements and breathing helps distract from a hectic lifestyle. The breathing coordination along with the hand eye movement is proven to promote calmness.<img alt=\"\" data-align=\"center\" data-file-id=\"3\" height=\"168\" src=\"/files/inline-images/back_ground_tai_chi_5.jpg\" width=\"298\" />\r\n\t<p>&nbsp;</p>\r\n\t</li>\r\n</ul>\r\n",
+                    "content": "<ul>\r\n\t<li><strong>Balance:</strong>&nbsp;Tai Chi movements are steady and slow, shifting from one side to the other with coordinating upper body movements. Theses movements help the core regain balance and reduces the risk of falling in elderly.</li>\r\n\t<li><strong>Strength and Endurance:</strong>&nbsp;Research shows that individuals who practiced Tai Chi at least 3 times a week on the regular, had higher strength and performance level.</li>\r\n\t<li><strong>Flexibility:</strong>&nbsp;In tai chi the range of movements helps improve one’s flexibility as well.</li>\r\n\t<li><strong>Posture:</strong>&nbsp;helps one maintain a good posture from constant practice of Tai Chi</li>\r\n\t<li><strong>Chronic Illness prevention:</strong>&nbsp;helps in the treatment chronic illnesses like heart disease, blood pressure, arthritis, digestive disorders, depression and a few others.</li>\r\n\t<li><strong>Improves coordination:</strong>&nbsp;helps with hand eye coordination as well as upper and lower body coordination with the slow rhythmic movements involved.</li>\r\n\t<li><strong>Regulates the respiratory system:</strong>&nbsp;Breathing is one of the three parts of Tai Chi. The deep breathing helps treat respiratory alignments such as asthma, bronchitis, and emphysema.</li>\r\n\t<li><strong>Aerobic Capacity:</strong>&nbsp;helps improve one’s aerobic capacity- researchers say that Tai Chi is a form of aerobic exercise as well.</li>\r\n\t<li><strong>Stress:</strong>&nbsp;The mellow rhythmic movements and breathing helps distract from a hectic lifestyle. The breathing coordination along with the hand eye movement is proven to promote calmness.<img alt=\"\" data-align=\"center\" data-file-id=\"3\" height=\"168\" src=\"/files/inline-images/back_ground_tai_chi_5.jpg\" width=\"298\" />\r\n\t<p>&nbsp;</p>\r\n\t</li>\r\n</ul>\r\n",
                     "format": "filtered_html"
                 },
                 "uuid": "40ffc19c-85ce-4fd0-9925-379b65140ab0",
-                "style": {
-                    "plugin": "default",
-                    "data": {
-                        "settings": {
-                            "classes": ""
-                        }
-                    }
-                }
-            }
-        },
-        "578243cf-a4c8-46ad-9504-04aaf4ec9ccc": {
-            "plugin": "views:promoted-block",
-            "data": {
-                "module": "views",
-                "delta": "promoted-block",
-                "settings": {
-                    "link_to_view": null,
-                    "more_link": false,
-                    "use_pager": true,
-                    "pager_id": 0,
-                    "items_per_page": 10,
-                    "offset": 0,
-                    "path": "rss.xml",
-                    "fields_override": null,
-                    "title_display": "default",
-                    "title": "",
-                    "style": "default",
-                    "block_settings": [],
-                    "contexts": [],
-                    "allowed": [],
-                    "path_override": false
-                },
-                "uuid": "578243cf-a4c8-46ad-9504-04aaf4ec9ccc",
                 "style": {
                     "plugin": "default",
                     "data": {
