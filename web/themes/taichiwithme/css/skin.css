@@ -1246,7 +1246,7 @@ div.error:before {
 }
 
 /** homepage **/
-.front .l-top {
+.front .l-content {
   margin: 2rem;
   display: flex;
   flex-direction: row;
